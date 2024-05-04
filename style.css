@@ -64,9 +64,9 @@ nav ul li a{
     margin: 0;
     position: absolute;
     top: 70%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    left: 42%;
+    /* -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
     gap: 15px;
     display: flex;  
 }
